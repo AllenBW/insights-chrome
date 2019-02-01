@@ -3,7 +3,7 @@ export default Object.freeze([{
     title: 'Dashboard'
 }, {
     id: 'advisor',
-    title: 'Advisor',
+    title: 'Insights',
     subItems: [
         {
             id: 'actions',
